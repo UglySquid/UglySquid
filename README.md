@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @UglySquid (Christine Wei)
-- 👀 I’m interested in ... Python and SQL ~!
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Nothing, but if you want to I'd love to ~!
-- 📫 How to reach me ... head to my website (https://uglysquid.github.io/index.html) to find my contact information
 
+![enter image description here](https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif)
+---------------------------------------------
+>Hey~!
+>I'm Chris. 
+>I do Python and some Web Dev.
+-------------------------------------------------------------------
+You can contact me:
+ - [ ] Discord: @cryies #3864
+ - [ ] Instagram: @w.cherrius
+ - [ ] Email: christine.wei.63@gmail.com
+-------------------------------------------------------------------
