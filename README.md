@@ -8,6 +8,6 @@
 -------------------------------------------------------------------
 You can contact me:
  - [ ] Discord: @cryies #3864
- - [ ] Instagram: @w.cherrius
+ - [ ] Instagram: @wo_ochy
  - [ ] Email: christine.wei.63@gmail.com
 -------------------------------------------------------------------
