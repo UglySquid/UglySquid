@@ -1,6 +1,3 @@
-
-![Oh no! It looks like my amazing banner didn't show up](https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif)
-
 -------------------------------------------------------------------
 >Hey, I'm Chris ~! 
 >I do Python and some Web Dev.
