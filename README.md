@@ -1,5 +1,5 @@
 -------------------------------------------------------------------
-# Hey, I'm Chris ~! 
+# Hey, I'm Chris! 
 >I do Python and some Web Dev.
 
 ## You can contact me via:
